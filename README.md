@@ -1,2 +1,2 @@
 # pandas_challenge
-City school perfirmance
+City school performance
